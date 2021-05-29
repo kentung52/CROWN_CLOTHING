@@ -11,7 +11,7 @@ export default function Nav(){
             <ul className={styles.nav__list}>
                 
                 <li className={styles.nav__listLogo}>
-                    <Link href="/"><img src="/favicon.svg" alt="" /></Link>
+                    <Link href="/"><img src="/pinsearch.svg" alt="" /></Link>
                 </li>
                 
                 <li className={styles.nav__listItem}>
